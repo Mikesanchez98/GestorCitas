@@ -1,0 +1,23 @@
+header{
+    background-color: #5f9dd6d0;
+    color: white;
+    padding: 20px 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 80%;
+    margin: 0 auto;
+    border-radius: 8px;
+    font-family: 'Arial', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center; 
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
